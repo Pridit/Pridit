@@ -4,4 +4,4 @@ I'm **Jordan**, a professional self-taught full-stack web app developer. I have 
 
 I've been messing with code since my early teens, solving problems as well as volunteering closely with communities such as [PCGamingWiki](https://en.wikipedia.org/wiki/PCGamingWiki) (we even met up during EGX Rezzed 2015!)
 
-👉🏻 Learn more about me: https://www.pridit.co.uk
+👉🏻 Find out more: https://www.pridit.co.uk
