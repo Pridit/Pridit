@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm **Jordan**, a professional self-taught full-stack web app developer. I have been employed in tech for over **5 years**.
+I'm **Jordan**, a professional self-taught full-stack web app developer. I have been working in tech for over 5 years.
 
 Predominantly working with [Laravel](https://laravel.com/), and before that [Slim](https://www.slimframework.com/). More recently, [Inertia.js](https://inertiajs.com/), [Vue](https://vuejs.org/), and [Astro](https://astro.build/).
 
