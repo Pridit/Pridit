@@ -1,9 +1,15 @@
-### Hi 👋
+### Hi, I'm Jordan 👋
 
-I'm **Jordan**, a self-taught full-stack web app developer and keen enthusiast in tech.
+I'm a British, UK based self-taught full-stack web developer (PHP), enthusiast in infrastructure (Docker, AWS), and avid motorsports enjoyer (F1).
 
-Primarily building with [Laravel](https://laravel.com/), and before that [Slim](https://www.slimframework.com/). More recently I have taken an interest in [Inertia.js](https://inertiajs.com/), [Vue](https://vuejs.org/), and [Astro](https://astro.build/).
+#### Work 💼
 
-I started messing with code in my teens, solving problems and volunteering closely with communities such as [PCGamingWiki](https://en.wikipedia.org/wiki/PCGamingWiki).
+After starting my career building with [Slim](https://www.slimframework.com/), I quickly moved onto [Laravel](https://laravel.com/). More recently I have taken an interest in [Inertia.js](https://inertiajs.com/), [Vue.js](https://vuejs.org/), and [Astro](https://astro.build/). I've worked with start-ups and medium sized businesses, both on-site and remote.
 
-🏡 [Personal Website](https://www.pridit.co.uk)
+#### Volunteer 🫶
+
+I spent a few years volunteering closely with [PCGamingWiki](https://en.wikipedia.org/wiki/PCGamingWiki) as a site administrator that encompassed everything from community management to liaising with game publishers.
+
+#### Contact 💬
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/jordanheale/), or through the contact address on my [website](https://www.pridit.co.uk).
