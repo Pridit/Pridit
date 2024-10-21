@@ -1,6 +1,6 @@
 ### Hi, I'm Jordan 👋
 
-I'm a British, UK based self-taught full-stack web developer (PHP), enthusiast in infrastructure (Docker, AWS), and avid motorsports enjoyer (F1).
+I'm a British, UK based self-taught full-stack web developer (PHP), enthusiast in infrastructure (Docker, AWS), and motorsports enjoyer (F1).
 
 ### Work 💻
 
@@ -8,7 +8,7 @@ After starting my career building with [Slim](https://www.slimframework.com/), I
 
 ### Volunteer 🫶
 
-I spent a few years volunteering closely with [PCGamingWiki](https://en.wikipedia.org/wiki/PCGamingWiki) as a site administrator that encompassed everything from community management to liaising with game publishers.
+I spent a few years volunteering closely with [PCGamingWiki](https://en.wikipedia.org/wiki/PCGamingWiki). As a site administrator my typical day-to-day encompassed everything from community management to liaising with game publishers.
 
 ### Contact 💬
 
