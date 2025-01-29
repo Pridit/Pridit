@@ -1,14 +1,6 @@
 ### Hi, I'm Jordan 👋
 
-I'm a British, UK based self-taught full-stack web developer (PHP), enthusiast in infrastructure (Docker, AWS), and avid motorsports enjoyer (F1).
-
-### Work 💻
-
-After starting my career building with [Slim](https://www.slimframework.com/), I quickly moved onto [Laravel](https://laravel.com/). More recently I have taken an interest in [Inertia.js](https://inertiajs.com/), [Vue.js](https://vuejs.org/), and [Astro](https://astro.build/). I've worked with start-ups and medium sized businesses, both on-site and remote.
-
-### Volunteer 🫶
-
-I spent a few years volunteering closely with [PCGamingWiki](https://en.wikipedia.org/wiki/PCGamingWiki). As a site administrator my typical day-to-day encompassed everything from community management to liaising with game publishers.
+I'm a British, UK based IT professional & self-taught full-stack web developer (PHP), enthusiast in infrastructure (Docker, AWS), and avid motorsports enjoyer (F1).
 
 ### Contact 💬
 
